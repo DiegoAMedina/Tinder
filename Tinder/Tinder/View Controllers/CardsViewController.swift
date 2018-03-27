@@ -6,8 +6,6 @@
 //  Copyright © 2018 Diego Medina. All rights reserved.
 //
 
-// TODO: FIX GO TO HOMEPAGE SEGUE
-
 import UIKit
 
 class CardsViewController: UIViewController {
